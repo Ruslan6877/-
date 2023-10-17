@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.home{
+    margin-top: 20px;
+    margin-left: 350px;
+    flex-direction: column;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 180px;
+}
+.btn{
+    margin-left: 550px;
+}
+
+.bt{
+    border-radius: 5px;
+    border: none;
+    background-color: azure;
+    width: 100px;
+    height: 30px;
+}
+
+.image{
+    width: 550px;
+    height: 400px;
+}
